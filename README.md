@@ -9,7 +9,12 @@
 <img src="https://img.shields.io/github/watchers/WillDev12/rJson?style=for-the-badge">
 </p>
 
-<h3 align="center">Json but easier and encrypted</h3>
+<details>
+<summary>What it is</summary>
+
+rJson is a powerful VS C# Library that allows you to pass encrypted data to and from files.
+
+</details>
 
 <details>
 <summary>How to use</summary>
