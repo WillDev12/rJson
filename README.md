@@ -11,7 +11,7 @@
 
 - - -
 
-<p text-align="center">Json but easier and encrypted</p>
+<h3 align="center">Json but easier and encrypted</h3>
 
 <details>
 <summary>How to use</summary>
