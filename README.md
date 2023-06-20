@@ -11,6 +11,8 @@
 
 - - -
 
+<p text-align="center">Json but easier and encrypted</p>
+
 <details>
 <summary>How to use</summary>
 To start, simply prime with the following:
