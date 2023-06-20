@@ -46,7 +46,6 @@ var parsed = rJs.parse(yourStuff, null);
 
 Console.WriteLine(rJs.getVar(parsed, "value1")); // will return "hello"
 ```
-<br>
 </details>
 
 <details>
@@ -68,8 +67,6 @@ MIT License
 This project is open source and free to edit.
 
 </details>
-
-<br>
 
 <a href="https://www.nuget.org/packages/rJson">
     <img src="https://md-announcements.vercel.app/api?type=horizontal&color=green&text=Be%20sure%20to%20check%20out%20our%20NuGet%20page!" width="100%"></img>
