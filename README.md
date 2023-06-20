@@ -9,15 +9,18 @@
 <img src="https://img.shields.io/github/watchers/WillDev12/rJson?style=for-the-badge">
 </p>
 
+<br>
+
 <details>
-<summary>What it is</summary>
-
+<summary>What is this?</summary>
+<br>
 rJson is a powerful VS C# Library that allows you to pass encrypted data to and from files.
-
+<br>
 </details>
 
 <details>
 <summary>How to use</summary>
+<br>
 To start, simply prime with the following:
 
 ``` c#
@@ -43,11 +46,12 @@ var parsed = rJs.parse(yourStuff, null);
 
 Console.WriteLine(rJs.getVar(parsed, "value1")); // will return "hello"
 ```
-
+<br>
 </details>
 
 <details>
 <summary>Owner</summary>
+<br>
 
 ```
 WillDev12 (WillDevv12)
@@ -56,6 +60,7 @@ WillDev12 (WillDevv12)
 
 <details>
 <summary>License</summary>
+<br>
 
 ```
 MIT License
@@ -63,6 +68,14 @@ MIT License
 This project is open source and free to edit.
 
 </details>
+
+<br>
+
+<a href="https://www.nuget.org/packages/rJson">
+    <img src="https://md-announcements.vercel.app/api?type=horizontal&color=green&text=Be%20sure%20to%20check%20out%20our%20NuGet%20page!" width="100%"></img>
+</a>
+
+<br>
 
 # Like content like this?
 
