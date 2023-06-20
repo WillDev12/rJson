@@ -9,8 +9,6 @@
 <img src="https://img.shields.io/github/watchers/WillDev12/rJson?style=for-the-badge">
 </p>
 
-- - -
-
 <h3 align="center">Json but easier and encrypted</h3>
 
 <details>
