@@ -67,7 +67,7 @@ This project is open source and free to edit.
 </details>
 
 <a href="https://www.nuget.org/packages/rJson">
-    <img src="https://md-announcements.vercel.app/api?type=horizontal&color=green&text=Be%20sure%20to%20check%20out%20our%20NuGet%20page!" width="100%"></img>
+    <img src="https://md-announcements.vercel.app/api?type=horizontal&color=yellow&text=Be%20sure%20to%20check%20out%20our%20NuGet%20page!&icon=warning" width="100%"></img>
 </a>
 
 # Like content like this?
